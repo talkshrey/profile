@@ -12,13 +12,13 @@ export const metadata: Metadata = {
 	},
 	description: "Computer engineering student",
 	openGraph: {
-		title: "chronark.com",
+		title: "talkshrey.software",
 		description: "Co-founder of unkey.dev and founder of planetfall.io",
-		url: "https://chronark.com",
-		siteName: "chronark.com",
+		url: "https://talkshrey.software",
+		siteName: "talkshrey.software",
 		images: [
 			{
-				url: "https://chronark.com/og.png",
+				url: "https://talkshrey.software/og.png",
 				width: 1920,
 				height: 1080,
 			},
